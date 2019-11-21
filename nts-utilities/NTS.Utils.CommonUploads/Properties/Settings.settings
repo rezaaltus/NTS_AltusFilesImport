@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NTS.Utils.BulkUploads.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="S3AccessKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AKIAIELN25MZFOCJRVSQ</Value>
+    </Setting>
+    <Setting Name="S3SecretKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">DhoAdIeyXkKshOPO9+N7E+qw+pV2IrWvEmFBzkNz</Value>
+    </Setting>
+    <Setting Name="Range" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="MaxDegreeOfParallelism" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="AltusToolFolderName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Assessment Valuation Records</Value>
+    </Setting>
+    <Setting Name="NamePredict" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Assess Record</Value>
+    </Setting>
+    <Setting Name="BUCKET_NAME" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">nts-prod-documents</Value>
+    </Setting>
+    <Setting Name="MongoDbConnection" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">mongodb://10.160.195.69:27017</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
